@@ -1,0 +1,1 @@
+# sigma-quote-generator
